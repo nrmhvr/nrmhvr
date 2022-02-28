@@ -9,7 +9,7 @@ Icons  https://gist.github.com/rxaviers/7360908
 <!-- LANGUAGES Widget -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrmhvr&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
 
-<table>
+<table align="center" style="border-left:0;border-right:0;border-bottom:0;border-top:0;cellpadding=0;cellspacing=0">
     <tr>
         <td align="center">
             <p>
