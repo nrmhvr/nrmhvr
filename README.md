@@ -9,37 +9,9 @@ Icons  https://gist.github.com/rxaviers/7360908
 <!-- LANGUAGES Widget -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrmhvr&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
 
-<table align="center" style="border-left:0;border-right:0;border-bottom:0;border-top:0;cellpadding=0;cellspacing=0">
-    <tr>
-        <td align="center">
-            <p>
-                <!-- GitHub Stats -->
-                <img src="https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
-            </p>
-        </td>
-        <td align="center">
-            <p>
-                <h2>💻 Working with... </h2>
-                <!-- Server -->
-                <img src="https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-                <!-- Frameworks, Platforms and Libraries -->
-                <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-                </br>
-                <!-- IDE -->
-                <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-                <!-- Languages -->
-                <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-                </br>
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-            </p>
-        </td>
-    </tr>
-</table>
+<h2>💻 Working with... </h2>
 
-|test|test|
-|:-:|:-:|
-|![Stats](https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊)|![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|
+![MSSQLSERVER](https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h2>📚 Tech Stack</h2> 
 
@@ -56,3 +28,8 @@ Icons  https://gist.github.com/rxaviers/7360908
 
 <!-- <h2>✏️ learning</h2> -->
 <!-- <h2>💡 📁 Projects</h2> -->
+
+<!-- </br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"></p> -->
+
+![test](https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊){:style="float: right;margin-right: 7px;margin-top: 7px;"}<p>![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</p>
