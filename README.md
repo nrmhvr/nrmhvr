@@ -4,7 +4,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- LANGUAGES -->
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrmhvr&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)</div>
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrmhvr&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 
 <h2>✏️Used</h2>
