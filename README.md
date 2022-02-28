@@ -37,6 +37,10 @@ Icons  https://gist.github.com/rxaviers/7360908
     </tr>
 </table>
 
+|test|test|
+|:-:|:-:|
+|![Stats](https://github-readme-stats.vercel.app/api?username=nrmhvr&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊)|![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|
+
 <h2>📚 Tech Stack</h2> 
 
 <!-- Languages -->
